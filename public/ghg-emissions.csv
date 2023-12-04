@@ -1,0 +1,196 @@
+iso,Country/Region,unit,2019,2020
+CHN,China,MtCO2e,12085.05,12295.62
+USA,United States,MtCO2e,5819.48,5289.13
+IND,India,MtCO2e,3380.31,3166.95
+RUS,Russia,MtCO2e,1889.93,1799.98
+IDN,Indonesia,MtCO2e,1913.58,1475.83
+BRA,Brazil,MtCO2e,1467.48,1469.64
+JPN,Japan,MtCO2e,1125.76,1062.78
+IRN,Iran,MtCO2e,856.71,844.71
+CAN,Canada,MtCO2e,781.78,731.54
+SAU,Saudi Arabia,MtCO2e,720.67,712.59
+COD,Democratic Republic of the Congo,MtCO2e,686.72,688.06
+DEU,Germany,MtCO2e,740.08,681.18
+KOR,South Korea,MtCO2e,653.38,613.54
+MEX,Mexico,MtCO2e,676.87,609.07
+AUS,Australia,MtCO2e,636.30,585.42
+ZAF,South Africa,MtCO2e,562.29,508.38
+TUR,Türkiye,MtCO2e,462.83,476.34
+VNM,Vietnam,MtCO2e,441.96,458.14
+THA,Thailand,MtCO2e,449.47,451.42
+PAK,Pakistan,MtCO2e,434.52,443.60
+GBR,United Kingdom,MtCO2e,452.15,411.12
+ARG,Argentina,MtCO2e,406.66,394.76
+NGA,Nigeria,MtCO2e,378.56,369.38
+MYS,Malaysia,MtCO2e,374.09,367.76
+ITA,Italy,MtCO2e,377.08,339.21
+POL,Poland,MtCO2e,337.91,320.92
+FRA,France,MtCO2e,351.60,314.57
+EGY,Egypt,MtCO2e,307.64,299.96
+KAZ,Kazakhstan,MtCO2e,283.98,291.82
+COL,Colombia,MtCO2e,269.55,270.31
+DZA,Algeria,MtCO2e,279.43,267.01
+IRQ,Iraq,MtCO2e,286.46,261.79
+ESP,Spain,MtCO2e,295.49,256.41
+ARE,United Arab Emirates,MtCO2e,248.67,249.93
+MMR,Myanmar,MtCO2e,238.65,246.64
+VEN,Venezuela,MtCO2e,301.85,237.63
+PHL,Philippines,MtCO2e,237.84,227.52
+UKR,Ukraine,MtCO2e,233.09,224.44
+BGD,Bangladesh,MtCO2e,229.71,224.35
+ETH,Ethiopia,MtCO2e,191.33,199.27
+TKM,Turkmenistan,MtCO2e,216.21,194.09
+UZB,Uzbekistan,MtCO2e,186.84,184.15
+PER,Peru,MtCO2e,190.31,179.78
+NLD,Netherlands,MtCO2e,178.85,162.55
+TZA,Tanzania,MtCO2e,156.97,158.82
+KWT,Kuwait,MtCO2e,137.49,135.89
+BOL,Bolivia,MtCO2e,139.18,131.43
+CMR,Cameroon,MtCO2e,126.77,128.40
+SDN,Sudan,MtCO2e,128.19,128.14
+QAT,Qatar,MtCO2e,121.51,119.61
+AGO,Angola,MtCO2e,129.96,119.41
+TCD,Chad,MtCO2e,108.75,114.00
+ZWE,Zimbabwe,MtCO2e,116.03,113.20
+MOZ,Mozambique,MtCO2e,105.99,103.81
+CZE,Czech Republic,MtCO2e,112.10,102.64
+BEL,Belgium,MtCO2e,108.29,100.27
+PRY,Paraguay,MtCO2e,96.70,97.29
+OMN,Oman,MtCO2e,99.97,95.10
+ECU,Ecuador,MtCO2e,100.26,94.19
+ZMB,Zambia,MtCO2e,94.15,91.19
+BLR,Belarus,MtCO2e,88.73,86.30
+MAR,Morocco,MtCO2e,90.60,86.10
+ISR,Israel,MtCO2e,87.27,83.75
+PRK,North Korea,MtCO2e,82.75,79.44
+MNG,Mongolia,MtCO2e,79.41,76.38
+LBY,Libya,MtCO2e,114.30,75.37
+KHM,Cambodia,MtCO2e,74.08,74.85
+ROU,Romania,MtCO2e,78.94,72.84
+KEN,Kenya,MtCO2e,71.03,72.62
+NZL,New Zealand,MtCO2e,73.89,70.86
+SSD,South Sudan,MtCO2e,61.46,70.61
+GRC,Greece,MtCO2e,79.93,70.56
+IRL,Ireland,MtCO2e,68.58,66.46
+SGP,Singapore,MtCO2e,65.04,64.30
+AUT,Austria,MtCO2e,69.70,64.09
+SRB,Serbia,MtCO2e,62.08,62.81
+FIN,Finland,MtCO2e,66.60,61.70
+HUN,Hungary,MtCO2e,63.89,61.39
+BFA,Burkina Faso,MtCO2e,55.74,56.36
+PRT,Portugal,MtCO2e,61.84,56.01
+CAF,Central African Republic,MtCO2e,55.64,55.52
+BHR,Bahrain,MtCO2e,54.19,54.15
+UGA,Uganda,MtCO2e,52.61,53.61
+BWA,Botswana,MtCO2e,51.76,53.52
+AZE,Azerbaijan,MtCO2e,54.62,53.45
+CIV,Côte d'Ivoire,MtCO2e,51.66,52.47
+PNG,Papua New Guinea,MtCO2e,53.26,51.65
+CHL,Chile,MtCO2e,56.37,49.69
+NPL,Nepal,MtCO2e,48.40,48.48
+SYR,Syria,MtCO2e,47.61,47.12
+SLB,Solomon Islands,MtCO2e,46.30,46.25
+NER,Niger,MtCO2e,43.99,46.04
+SOM,Somalia,MtCO2e,43.47,43.62
+MLI,Mali,MtCO2e,41.16,43.49
+LAO,Laos,MtCO2e,40.50,43.36
+DNK,Denmark,MtCO2e,45.63,43.19
+CHE,Switzerland,MtCO2e,44.74,42.25
+GIN,Guinea,MtCO2e,40.71,41.79
+MDG,Madagascar,MtCO2e,40.45,40.21
+NIC,Nicaragua,MtCO2e,38.20,38.15
+TUN,Tunisia,MtCO2e,38.82,37.10
+LKA,Sri Lanka,MtCO2e,37.26,36.90
+GTM,Guatemala,MtCO2e,38.19,36.78
+CUB,Cuba,MtCO2e,36.31,35.62
+DOM,Dominican Republic,MtCO2e,38.20,35.50
+SVK,Slovakia,MtCO2e,37.01,34.95
+SEN,Senegal,MtCO2e,35.46,34.71
+URY,Uruguay,MtCO2e,34.85,34.28
+SWE,Sweden,MtCO2e,35.44,34.14
+JOR,Jordan,MtCO2e,34.90,33.15
+NOR,Norway,MtCO2e,32.82,31.33
+AFG,Afghanistan,MtCO2e,32.89,31.27
+COG,Republic of Congo,MtCO2e,30.35,29.63
+LBN,Lebanon,MtCO2e,34.05,28.87
+HND,Honduras,MtCO2e,27.89,27.67
+BEN,Benin,MtCO2e,26.44,26.96
+TTO,Trinidad and Tobago,MtCO2e,29.04,26.61
+BIH,Bosnia and Herzegovina,MtCO2e,24.54,24.39
+YEM,Yemen,MtCO2e,25.93,24.39
+LTU,Lithuania,MtCO2e,24.12,24.13
+NAM,Namibia,MtCO2e,21.35,24.12
+PAN,Panama,MtCO2e,24.84,21.46
+GAB,Gabon,MtCO2e,21.40,21.16
+MWI,Malawi,MtCO2e,19.98,20.31
+GUY,Guyana,MtCO2e,17.97,18.17
+GEO,Georgia,MtCO2e,17.89,17.69
+TJK,Tajikistan,MtCO2e,17.29,17.56
+HRV,Croatia,MtCO2e,17.96,17.05
+SVN,Slovenia,MtCO2e,16.90,15.65
+LBR,Liberia,MtCO2e,15.84,15.62
+EST,Estonia,MtCO2e,17.80,14.83
+GHA,Ghana,MtCO2e,11.22,14.41
+SUR,Suriname,MtCO2e,13.58,13.54
+GNQ,Equatorial Guinea,MtCO2e,14.13,13.38
+MDA,Moldova,MtCO2e,13.64,13.17
+MRT,Mauritania,MtCO2e,12.91,12.97
+KGZ,Kyrgyzstan,MtCO2e,13.67,12.83
+BGR,Bulgaria,MtCO2e,17.65,12.61
+BRN,Brunei,MtCO2e,9.65,12.23
+SLV,El Salvador,MtCO2e,13.59,12.15
+LVA,Latvia,MtCO2e,12.17,11.53
+HTI,Haiti,MtCO2e,10.96,10.90
+ARM,Armenia,MtCO2e,9.91,10.46
+MKD,Macedonia,MtCO2e,10.90,9.77
+SLE,Sierra Leone,MtCO2e,9.24,9.31
+TGO,Togo,MtCO2e,8.77,9.24
+LUX,Luxembourg,MtCO2e,10.22,8.54
+ALB,Albania,MtCO2e,8.95,8.06
+CYP,Cyprus,MtCO2e,8.29,7.86
+RWA,Rwanda,MtCO2e,7.60,7.59
+JAM,Jamaica,MtCO2e,10.15,7.58
+BDI,Burundi,MtCO2e,7.25,7.14
+CRI,Costa Rica,MtCO2e,8.40,7.08
+BLZ,Belize,MtCO2e,6.90,6.96
+ERI,Eritrea,MtCO2e,6.63,6.69
+MUS,Mauritius,MtCO2e,6.82,6.41
+TLS,Timor-Leste,MtCO2e,6.55,6.01
+GNB,Guinea-Bissau,MtCO2e,4.22,4.26
+LSO,Lesotho,MtCO2e,3.85,4.01
+MNE,Montenegro,MtCO2e,3.85,3.79
+BRB,Barbados,MtCO2e,3.71,3.65
+ISL,Iceland,MtCO2e,3.46,3.27
+GMB,Gambia,MtCO2e,2.92,2.98
+SWZ,Eswatini,MtCO2e,2.96,2.88
+BHS,Bahamas,MtCO2e,2.97,2.83
+GRD,Grenada,MtCO2e,2.41,2.40
+MLT,Malta,MtCO2e,2.14,2.08
+MDV,Maldives,MtCO2e,2.49,1.99
+DJI,Djibouti,MtCO2e,1.39,1.39
+ATG,Antigua and Barbuda,MtCO2e,1.21,1.20
+SYC,Seychelles,MtCO2e,0.76,0.77
+CPV,Cape Verde,MtCO2e,0.72,0.73
+LCA,Saint Lucia,MtCO2e,0.73,0.70
+COM,Comoros,MtCO2e,0.68,0.68
+WSM,Samoa,MtCO2e,0.69,0.65
+VUT,Vanuatu,MtCO2e,0.64,0.59
+AND,Andorra,MtCO2e,0.61,0.58
+STP,Sao Tome and Principe,MtCO2e,0.39,0.40
+KNA,Saint Kitts and Nevis,MtCO2e,0.35,0.33
+BTN,Bhutan,MtCO2e,0.74,0.32
+VCT,Saint Vincent and the Grenadines,MtCO2e,0.32,0.30
+TON,Tonga,MtCO2e,0.31,0.27
+DMA,Dominica,MtCO2e,0.23,0.22
+PLW,Palau,MtCO2e,0.25,0.20
+MHL,Marshall Islands,MtCO2e,0.20,0.16
+FSM,Micronesia,MtCO2e,0.20,0.16
+LIE,Liechtenstein,MtCO2e,0.16,0.16
+KIR,Kiribati,MtCO2e,0.10,0.09
+COK,Cook Islands,MtCO2e,0.09,0.07
+NRU,Nauru,MtCO2e,0.06,0.05
+TUV,Tuvalu,MtCO2e,0.02,0.02
+NIU,Niue,MtCO2e,0.01,0.00
+FJI,Fiji,MtCO2e,-0.38,-0.81
+Data source,Climate Watch
+Data for,Location: World. Sectors/Subsectors: Total including LUCF. Gases: All GHG. Calculation: Total. Show data by Countries
