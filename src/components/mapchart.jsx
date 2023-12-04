@@ -46,6 +46,10 @@ const MapChart = () => {
                                     onMouseLeave={() => {
                                         setTooltipContent("");
                                     }}
+                                    onClick={(event) => event.preventDefault()}
+                                    style={{
+                                        hover:{fill: "red"}
+                                    }}
                                 />
                             );
                         })
