@@ -1,7 +1,7 @@
 import ProgressCircle from "./progresscircle";
 
 
-export const AirQuality = () => {
+const AirQuality = () => {
 
     return (
         <div className="flex flex-col items-center justify-center bg-white">
@@ -13,3 +13,5 @@ export const AirQuality = () => {
         </div>
     );
 };
+
+export default AirQuality;
