@@ -1,7 +1,9 @@
 import './App.css'
 import Navbar from './components/navbar'
-import { AirQuality } from './components/airquality'
+import AirQuality  from './components/airquality'
 import Data from './components/data'
+import Plans from './components/plans'
+import Footer from './components/footer'
 
 function App() {
 
@@ -10,10 +12,8 @@ function App() {
       <Navbar/>
       <AirQuality/>
       <Data/>
-      {/* Footer */}
-      <footer className="p-4">
-        {/* Footer content */}
-      </footer>
+      <Plans/>
+      <Footer/>
     </div>
   )
 }
