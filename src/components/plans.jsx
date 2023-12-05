@@ -6,7 +6,7 @@ import SuporteIcon from "../assets/support.svg?react"
 const Plans = () => {
     return (
         <div className="flex flex-col bg-white">
-            <h2 className="font-bebas text-4xl items-center px-32 text-p1 mt-64">PLANOS</h2>
+            <h2 id="plans" className="font-bebas text-4xl items-center px-32 text-p1 mt-32">PLANOS</h2>
             <p className="font-ubuntu text-lg mt-6 px-32 text-p3">Ao escolher entre o Plano Standard e o Plano Premium, você pode selecionar a opção que melhor atende às suas necessidades específicas de monitoramento da qualidade do ar.</p>
             <div className="flex flex-row gap-10 items-center justify-center mt-6 z-10">
                 <div className="bg-c12 p-8 w-[30%] rounded">
