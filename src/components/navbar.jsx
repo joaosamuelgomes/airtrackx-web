@@ -1,9 +1,9 @@
-import Logo from "../../airtrackx.svg"
+import Logo from "../../airtrackx.svg?react"
 
 const Navbar = () => {
     return (
         <nav className="flex justify-between items-center py-2 px-32 bg-p1 text-p5">
-        <img src={Logo} alt="Logo" className="w-[307px] h-[43px]"/>
+        <Logo className="w-[307px] h-[43px]"/>
         <div className="flex gap-4">
             <a href="/quality" className="hover:underline font-bebas">
                 QUALIDADE DO AR
