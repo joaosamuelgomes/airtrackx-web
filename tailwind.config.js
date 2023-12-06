@@ -10,6 +10,9 @@ export default {
       'ubuntu': ['Ubuntu', 'sans-serif'],
     },
     extend: {
+      backgroundImage: {
+        "building": "url('/src/assets/building.png')"
+      },
       colors: {
         p1: "#253544",
         p2: "#2E5172",
