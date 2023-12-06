@@ -4,6 +4,7 @@ import AirQuality  from './components/airquality'
 import Data from './components/data'
 import Plans from './components/plans'
 import Footer from './components/footer'
+import Contact from './components/contact'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <AirQuality/>
       <Data/>
       <Plans/>
+      <Contact/>
       <Footer/>
     </div>
   )
