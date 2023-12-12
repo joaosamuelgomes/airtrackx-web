@@ -5,11 +5,11 @@ import Building from "../assets/building.png"
 
 const Contact = () => {
     return (
-        <div className="flex flex-row bg-p1 pt-8">
+        <div className="flex flex-row bg-p1 pt-8 items-center pb-28">
             <div className="flex w-[50%] flex-col">
                 <h2 id="contact" className="font-bebas text-4xl justify-between items-center py-2 px-32 text-white">CONTATO</h2>
                 <p className="font-ubuntu text-lg mt-6 pl-32 text-c11">Entre em contato e saiba mais sobre a gente, a airtrackx está comprometida em criar um mundo melhor para todos.</p>
-                <form className="space-y-6 p-8 shadow-md rounded-lg pl-32">
+                <form className="space-y-6 p-8 rounded-lg pl-32">
                     <div className="flex flex-row gap-6">
                         <div className="flex flex-col w-full">
                             <label htmlFor="name" className="mb-2 text-sm font-medium text-white">Nome:</label>
