@@ -16,10 +16,13 @@ const AirQuality = () => {
         });
 
         client.on("message", (topic, message) => {
-            // Quando uma mensagem é recebida no tópico MQTT
             if (topic === "qualidadeAr") {
-                // Parse da mensagem recebida
-                const newQuality = message.toString();
+                let newQuality = message.toString();
+        
+                // Garantindo que newQuality seja um dos valores esperados
+                const validQualities = ["Ruim", "Moderada", "Boa", "Excelente"];
+                newQuality = validQualities.includes(newQuality) ? newQuality : ""; // Se não for válido, define como vazio
+        
                 setQuality(newQuality);
             }
         });

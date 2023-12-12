@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { useEffect } from "react";
 
 const ProgressCircle = ({ quality }) => {
     const radius = 40;
@@ -8,16 +9,16 @@ const ProgressCircle = ({ quality }) => {
 
     const getQualityPercentage = (quality) => {
         switch (quality) {
-            case "ruim":
+            case "Ruim":
                 percentage = 25;
                 break;
-            case "moderada":
+            case "Moderada":
                 percentage = 50;
                 break;
-            case "boa":
+            case "Boa":
                 percentage = 75;
                 break;
-            case "excelente":
+            case "Excelente":
                 percentage = 100;
                 break;
             default:
@@ -25,7 +26,9 @@ const ProgressCircle = ({ quality }) => {
         }
     };
 
-    getQualityPercentage(quality);
+    useEffect(() =>{
+        getQualityPercentage(quality)
+    },[getQualityPercentage])
 
     if (!quality) {
         // Se não houver valor para 'quality', renderize "Sem dados"
@@ -47,7 +50,7 @@ const ProgressCircle = ({ quality }) => {
                         r={radius}
                         fill="white"
                         strokeDasharray={circumference}
-                        strokeDashoffset={(percentage / 100) * circumference}
+                        strokeDashoffset={(100 / 100) * circumference}
                         strokeWidth="6"
                         transform="rotate(-90 50 50)"
                     ></circle>
@@ -90,7 +93,7 @@ const ProgressCircle = ({ quality }) => {
 };
 
 ProgressCircle.propTypes = {
-    quality: PropTypes.oneOf(["Ruim", "Moderada", "Boa", "Excelente"]).isRequired,
+    quality: PropTypes.oneOf(["Ruim", "Moderada", "Boa", "Excelente", ""]).isRequired,
 };
 
 export default ProgressCircle;
