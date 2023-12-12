@@ -90,7 +90,7 @@ const ProgressCircle = ({ quality }) => {
 };
 
 ProgressCircle.propTypes = {
-    quality: PropTypes.oneOf(["ruim", "moderada", "boa", "excelente"]).isRequired,
+    quality: PropTypes.oneOf(["Ruim", "Moderada", "Boa", "Excelente"]).isRequired,
 };
 
 export default ProgressCircle;

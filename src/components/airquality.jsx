@@ -8,7 +8,7 @@ const AirQuality = () => {
 
     useEffect(() => {
         // Conectando ao mesmo servidor MQTT que o Arduino
-        const client = mqtt.connect("mqtt://test.mosquitto.org");
+        const client = mqtt.connect("mqtt://test.mosquitto.org:8080");
 
         client.on("connect", () => {
             // Assinando o mesmo tópico MQTT que o Arduino está publicando
