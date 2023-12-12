@@ -7,23 +7,25 @@ const AirQuality = () => {
     const [quality, setQuality] = useState(""); 
 
     useEffect(() => {
-        const client = mqtt.connect("mqtt://seu_servidor_mqtt"); // Substitua pelo endereço do seu servidor MQTT
+        // Conectando ao mesmo servidor MQTT que o Arduino
+        const client = mqtt.connect("mqtt://test.mosquitto.org");
 
         client.on("connect", () => {
-            client.subscribe("topico/qualidade_ar"); // Substitua pelo tópico MQTT apropriado
+            // Assinando o mesmo tópico MQTT que o Arduino está publicando
+            client.subscribe("qualidadeAr");
         });
 
         client.on("message", (topic, message) => {
             // Quando uma mensagem é recebida no tópico MQTT
-            if (topic === "topico/qualidade_ar") {
-                // Parse ou manipule a mensagem recebida, se necessário
-                const newQuality = message.toString(); // Supondo que a mensagem seja uma string representando a qualidade do ar
+            if (topic === "qualidadeAr") {
+                // Parse da mensagem recebida
+                const newQuality = message.toString();
                 setQuality(newQuality);
             }
         });
 
         return () => {
-            client.end(); // Desconecte o cliente MQTT quando o componente for desmontado
+            client.end(); // Desconectando o cliente MQTT quando o componente for desmontado
         };
     }, []);
 
